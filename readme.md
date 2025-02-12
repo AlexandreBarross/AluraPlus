@@ -1,5 +1,5 @@
 Projeto desenvolvido durante um dos cursos da formação Front-End da Alura.
-![image]()
+![image](https://github.com/AlexandreBarross/AluraPlus/blob/main/Img/TelaInicial.PNG?raw=true)
 
 ## Ferramentas utilizadas:
 * HTML
